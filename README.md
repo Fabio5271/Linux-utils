@@ -1,2 +1,2 @@
 # Linux-utils
-My repo for custom linux and plasma desktop utilities
+My repo for custom Linux and Plasma desktop utilities
