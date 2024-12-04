@@ -32,7 +32,7 @@ Color=133,153,0
 Color=94,106,0
 
 [Color2Intense]
-Color=88,110,117
+Color=144,163,0
 
 [Color3]
 Color=181,137,0
@@ -41,7 +41,7 @@ Color=181,137,0
 Color=138,103,0
 
 [Color3Intense]
-Color=101,123,131
+Color=196,144,0
 
 [Color4]
 Color=38,139,210
@@ -50,7 +50,7 @@ Color=38,139,210
 Color=20,77,115
 
 [Color4Intense]
-Color=131,148,150
+Color=27,146,225
 
 [Color5]
 Color=211,54,130
@@ -68,7 +68,7 @@ Color=42,161,152
 Color=24,94,88
 
 [Color6Intense]
-Color=147,161,161
+Color=36,176,164
 
 [Color7]
 Color=238,232,213
@@ -90,10 +90,11 @@ Color=147,161,161
 
 [General]
 Anchor=0.5,0.5
-Blur=false
+Blur=true
 ColorRandomization=false
-Description=Solarized Dark Custom
+Description=Solarized 20B Vibrant Dark
 FillStyle=Tile
-Opacity=0.9
+Opacity=0.8
 Wallpaper=
+WallpaperFlipType=NoFlip
 WallpaperOpacity=1
